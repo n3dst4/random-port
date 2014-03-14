@@ -1,0 +1,21 @@
+{
+  "name": "random-port",
+  "version": "0.0.1",
+  "description": "Generate random non-privileged port number",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/n3dst4/random-port.git"
+  },
+  "author": "Neil de Carteret",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n3dst4/random-port/issues"
+  }
+}
